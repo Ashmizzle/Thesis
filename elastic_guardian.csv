@@ -1,0 +1,47 @@
+Topic,Query,Score,Average score
+G01,Digital assistant,45.6157076637371,x
+G01,Biases,44.3980509996723,
+G02,Confidential,58.6999177972225,x
+G02,Privacy,44.0761840516241,
+G03,smart speaker,47.4802536217978,x
+G03,surveillance,49.1179150852698,
+G04,drug discovery,42.6335724881174,x
+G04,functional genomics,42.9470006238734,
+G04,infectious diseases,39.4809444919588,
+G05,gene editing,45.2353235513395,x
+G05,crispr,53.4200433616151,
+G06,ubiquity,66.3494009338035,x
+G06,self driving,49.8094037155664,
+G07,misinformation,36.2399120301315,x
+G07,conspiracy theories,53.7152279352929,
+G08,cryptocurrency,48.1038811250111,x
+G08,financial markets,51.5051412491737,
+G09,forensics,55.0384827455674,x
+G10,humanoid robots,52.2763738763646,x
+G10,disrupting,46.2541227950353,
+G11,drones,51.2123956091285,x
+G12,patient data,52.9988190022513,x
+G13,digital marketing,45.4520173993184,x
+G13,advertising,41.2467692649773,
+G14,online safety for children,54.746741686068,x
+G14,end to end encryption,43.3633213454788,
+G15,Snowden,68.6422768523392,x
+G15,cookies,62.1750505287758,
+G15,GDPR,66.2377933040345,
+G15,ePrivacy,54.3308996531777,
+G16,algorithm,56.0811332380694,x
+G16,NLP applications,50.2726256743898,
+G16,accountability,44.4724846210558,
+G16,OpenNLP,52.827042124753,
+G17,quantum computing,49.6797797187095,x
+G17,qbit,55.8406517759744,
+G17,Jay Gambetta,54.1635625190134,
+G17,quantum applications,46.9221168693584,
+G18,Peer recomendations,50.3091271931375,x
+G18,Crowsourcing,62.1840895912034,
+G18,tech job search,58.4340830549756,
+G19,International Space Station Linux,61.5775047224405,x
+G19,Kasperky Linux,63.6427798574576,
+G19,malicious password swiping malware,43.9501999853272,
+G20,open data risk,61.7367834943608,x
+G20,open data impact of policies,59.7026726810206,

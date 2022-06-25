@@ -1,0 +1,68 @@
+Topic,Query,Score,Average score
+T01,indoor positioning system,43.8558123872536,x
+T01,light positioning,45.2609850754586,
+T01,LED lamp,55.5353196775688,
+T02,spacecraft,51.1404897253322,x
+T02,RISC-V,67.1457706809349,
+T02,architecture modularity,39.5920418351843,
+T03,imitation learning,41.7008381380969,x
+T03,crowdsourcing,43.7025415294363,
+T03,robot learning,48.0387215753895,
+T04,intelligent parking,48.3908431793963,x
+T04,RNN,56.6083975654245,
+T04,nematode,44.5588705640962,
+T04,small neural network,52.4679233994551,
+T05,emotional robot,48.6617275572009,x
+T05,emotion detection,45.3307356513663,
+T05,emotion synthesis,44.2560110880179,
+T05,empathy,50.945869726296,
+T06,system-on-chip,49.7764772187318,x
+T06,energy efficiency,45.335734705757,
+T06,neural network accelerator,39.9078061585071,
+T07,transfer learning,51.2810223818583,x
+T07,Bayesian approach,45.027221855281,
+T07,classification,65.6251117116463,
+T07,error estimator,51.2295182138237,
+T08,3G,69.3032435923881,x
+T08,CDMA,53.2468126892549,
+T08,OFDMA,60.9158902681728,
+T09,ancient text,52.7964435070574,x
+T09,text reconstruction,49.3727797218614,
+T09,text classification,67.8597027772165,
+T10,optoelectronic,28.7882619146956,x
+T10,visual adaptation,46.0976681058959,
+T10,phototransistor,43.7462931822774,
+T10,vision sensor,54.5494767702149,
+T11,character relationship,51.313577960186,x
+T11,storyline visualization,40.3717388395914,
+T11,social map,54.5227431866069,
+T12,deep learning,49.0475843076873,x
+T12,smartwatch,63.1080623231869,
+T12,diagnosis,53.6837706871239,
+T12,healthcare,37.0890837229494,
+T13,fairness,55.7791065056869,x
+T13,bias,63.7161930919306,
+T13,imbalanced data,44.0795423384537,
+T13,sensitive attribute,49.3493232040923,
+T14,wifi,50.9172277957688,x
+T14,underwater wireless,30.0078515938751,
+T14,light beam,67.870164122861,
+T15,cyber-security,54.8240417253292,x
+T15,side-channel attack,50.7482701487943,
+T15,accelerometer,43.5616565949803,
+T16,credit card fraud,62.5243546537735,x
+T16,guessing attack,57.5612060750023,
+T16,distributed attack,50.4848412585789,
+T17,chipset,58.2851823198304,x
+T17,OTP memory,67.9740743272503,
+T17,vulnerability,42.9407958179214,
+T17,key generation,50.5189589281262,
+T18,backscatter,43.5860270909521,x
+T18,low power IoT,64.9177634516625,
+T18,passive device,52.7881423479655,
+T18,mmWave,47.9333006405679,
+T19,traffic optimization,60.8259096103754,x
+T19,genetic algorithm,56.7782152559664,
+T19,road accident,52.8133679421271,
+T20,user-friendly,57.5987044950097,x
+T20,graphical user interface,49.5510324647921,
